@@ -4,7 +4,7 @@
 
 ### 🚀 About Me  
 - 🌱 Currently learning and building projects using **React, Node.js, and MongoDB**  
-- 🔭 Working on full-stack projects like **Zerodha Clone**, **Video Conference App**, and **Finding Engine**  
+- 🔭 Working on full-stack projects like **stock trading web**, **Video Conference App**,  **script lab** and **logic chat**
 - 💬 Ask me about: JavaScript, React.js, Node.js, and APIs  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avni-namdev-274825257/)  
 
