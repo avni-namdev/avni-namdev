@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Avni Namdev  
 
-<!--
-**avni-namdev/avni-namdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A passionate **MERN Stack Developer** who loves building clean, responsive, and user-friendly web applications.  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🌱 Currently learning and building projects using **React, Node.js, and MongoDB**  
+- 🔭 Working on full-stack projects like **Zerodha Clone**, **Video Conference App**, and **Finding Engine**  
+- 💬 Ask me about: JavaScript, React.js, Node.js, and APIs  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avni-namdev-274825257/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+💠 HTML | 💠 CSS | 💠 JavaScript | 💠 React.js | 💠 Node.js | 💠 Express.js | 💠 MongoDB | 💠 Git & GitHub  
+
+---
+
+### 📂 Featured Projects
+| Project | Description | Tech Used | Link |
+|----------|--------------|------------|------|
+| Zerodha Clone | Full MERN stack stock trading web app | React, Node.js, MongoDB | [View Repo](https://github.com/avni-namdev) |
+| Video Conference Web App | Real-time video call using WebRTC | React, Socket.io | [View Repo](https://github.com/avni-namdev) |
+| Finding Engine | Custom search web app | React, Node.js | [View Repo](https://github.com/avni-namdev) |
+| Portfolio Website | Personal responsive website | HTML, CSS, JS | [View Repo](https://github.com/avni-namdev) |
+
+---
+
+⭐ **"Code. Learn. Build. Repeat."** ⭐  
+
+
+
